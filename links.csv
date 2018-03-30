@@ -1,0 +1,6 @@
+﻿Source,Target,Link Category,Link Weight,Link ID
+node1,node2,a,1,1
+node4,node5,a,1,2
+node5,node2,b,0.8,3
+node6,node2,c,0.6,4
+node3,node6,c,1,5
